@@ -54,7 +54,7 @@ The server will start on `http://localhost:3000`.
 
 ## 👤 Author
 **Muhilan**
-*Intern Developer @ [Skandavel Webtech](https://www.linkedin.com/company/skandavel)*
+*Developer @ [Skandavel Webtech](https://www.linkedin.com/company/skandavel)*
 *--- [Linkedin Profile](https://www.linkedin.com/in/rcmuhilan/)*
 
 ---
